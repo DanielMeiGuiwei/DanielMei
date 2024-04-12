@@ -19,7 +19,7 @@ Content "/Users/danielmei/Blog/mysite/content/posts/first_post.md" created
 
 ## pictures
 
-![](pics/test.jpg)
+![](/pics/test.jpg)
 
 
 
