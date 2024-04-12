@@ -11,7 +11,7 @@
     <author>DanielMei</author>
     <guid>https:DanielMei.github.iohow-to-build-a-blog/</guid>
     <description><![CDATA[How to Build a Blog - Test run command in below dir
-1 2 cd /Users/danielmei/Blog/mysite hugo new posts/first_post.md 1 2 danielmei@Daniels-MacBook-Pro mysite % hugo new posts/first_post.md Content &#34;/Users/danielmei/Blog/mysite/content/posts/first_post.md&#34; created pictures ![pics/test.jpg]]]></description>
+1 2 cd /Users/danielmei/Blog/mysite hugo new posts/first_post.md 1 2 danielmei@Daniels-MacBook-Pro mysite % hugo new posts/first_post.md Content &#34;/Users/danielmei/Blog/mysite/content/posts/first_post.md&#34; created pictures ]]></description>
 </item>
 <item>
     <title>First_post</title>
