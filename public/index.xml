@@ -3,7 +3,8 @@
         <title>My New Hugo Site</title>
         <link>https:DanielMei.github.io</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 12 Apr 2024 17:35:59 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>meiguiwei@hotmail.com (DanielMei)</managingEditor>
+            <webMaster>meiguiwei@hotmail.com (DanielMei)</webMaster><lastBuildDate>Fri, 12 Apr 2024 17:35:59 &#43;0800</lastBuildDate>
             <atom:link href="https:DanielMei.github.ioindex.xml" rel="self" type="application/rss+xml" />
         </channel>
 </rss>
