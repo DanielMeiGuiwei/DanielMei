@@ -17,7 +17,7 @@ Content "/Users/danielmei/Blog/mysite/content/posts/first_post.md" created
 
 ## pictures
 
-![](/pics/test.jpg)
+![](https://github.com/DanielMeiGuiwei/DanielMei/blob/main/static/pics/test.jpg)
 
 
 
@@ -106,3 +106,4 @@ PicGo 是一个图床工具，可以帮助您批量上传图片到 GitHub 仓库
 使用获取到的加速链接，将图片引用插入到 Markdown 文件中。
 
 这种方式的优势在于，您可以将图片集中存储在 GitHub 仓库中，通过 CDN 加速服务来加载图片，提高图片加载速度。同时，使用 PicGo 可以简化图片上传和链接获取的过程。
+
