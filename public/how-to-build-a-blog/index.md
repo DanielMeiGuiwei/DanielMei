@@ -17,9 +17,9 @@ Content "/Users/danielmei/Blog/mysite/content/posts/first_post.md" created
 
 ## pictures
 
-![](https://github.com/DanielMeiGuiwei/DanielMei/blob/main/static/pics/test.jpg)
+![testjpg](https://github.com/DanielMeiGuiwei/DanielMei/blob/main/static/pics/test.jpg)
 
-
+![a-test](/pics/test.jpg)
 
 
 # References
