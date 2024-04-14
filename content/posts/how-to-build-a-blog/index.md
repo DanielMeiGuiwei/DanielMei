@@ -21,7 +21,7 @@ Content "/Users/danielmei/Blog/mysite/content/posts/first_post.md" created
 
 ![testjpg](https://github.com/DanielMeiGuiwei/DanielMei/blob/main/static/pics/test.jpg)
 
-![a-test](static/pics/test.jpg)
+![a-test](/pics/test.jpg)
 
 
 # References
